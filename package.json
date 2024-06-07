@@ -1,0 +1,13 @@
+{
+  "name": "sandbox-00",
+  "version": "0.0.0",
+  "private": true,
+  "author": "nevidomyi",
+  "workspaces": [
+    "server"
+  ],
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "yarn  workspace server start:dev"
+  }
+}
